@@ -3,6 +3,7 @@
  A Flutter project showcasing a beautiful Anime browsing experience.
 
 
+
 ## Screenshots
 
 Below are some screenshots of the app:
@@ -18,6 +19,50 @@ Below are some screenshots of the app:
       <img src="assets/screens/upgrade_plan.png" alt="Upgrade Plan Screen" width="250"/>
    </span>
 </p>
+
+## Demo Video
+
+<p align="center">
+  <video width="320" controls>
+    <source src="assets/screens/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
+## Project Structure
+
+```text
+anime/
+│
+├── lib/
+│   ├── main.dart                # App entry point
+│   └── core/
+│       └── features/
+│           └── anime/
+│               ├── domain/      # Business logic & entities
+│               ├── presentation/
+│               │   ├── screens/ # UI screens (e.g., home, details)
+│               │   └── widgets/ # Reusable UI widgets
+│               └── ...
+│
+├── assets/
+│   ├── images/                  # App images
+│   ├── icons/                   # SVG & icon assets
+│   ├── fonts/                   # Custom fonts
+│   └── screens/                 # Screenshots for documentation
+│
+├── android/                     # Android native code
+├── ios/                         # iOS native code
+├── web/                         # Web support
+├── linux/                       # Linux support
+├── macos/                       # macOS support
+├── windows/                     # Windows support
+├── pubspec.yaml                 # Flutter dependencies & assets
+└── README.md                    # Project documentation
+```
+
+This diagram shows the main folders and their responsibilities in the project.
 
 ## Overview
 
