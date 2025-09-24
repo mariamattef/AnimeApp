@@ -24,7 +24,7 @@ Below are some screenshots of the app:
 
 <p align="center">
   <video width="320" controls>
-    <source src="assets/screens/demo.mp4" type="video/mp4">
+    <source src="assets/screens/anime.gif">
     Your browser does not support the video tag.
   </video>
 </p>
