@@ -8,9 +8,15 @@
 Below are some screenshots of the app:
 
 <p align="center">
-   <img src="assets/screens/home.png" alt="Home Screen" width="250"/>
-   <img src="assets/screens/details.png" alt="Details Screen" width="250"/>
-   <img src="assets/screens/upgrade_plan.png" alt="Upgrade Plan Screen" width="250"/>
+   <span style="display:inline-block; background:#fff; border-radius:16px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin:8px; padding:8px;">
+      <img src="assets/screens/home.png" alt="Home Screen" width="250"/>
+   </span>
+   <span style="display:inline-block; background:#fff; border-radius:16px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin:8px; padding:8px;">
+      <img src="assets/screens/details.png" alt="Details Screen" width="250"/>
+   </span>
+   <span style="display:inline-block; background:#fff; border-radius:16px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin:8px; padding:8px;">
+      <img src="assets/screens/upgrade_plan.png" alt="Upgrade Plan Screen" width="250"/>
+   </span>
 </p>
 
 ## Overview
